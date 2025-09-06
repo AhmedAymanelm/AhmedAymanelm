@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://github.com/AhmedAymanelm/AhmedAymanelm/blob/main/i%20am%20Ahmed.gif?raw=true" alt="Hello Coders" width="100%"/> <br>
+<img src="https://github.com/AhmedAymanelm/AhmedAymanelm/blob/main/i%20am%20Ahmed.gif?raw=true" alt="Hello Coders" width="100%" height= "30%" /> <br>
 <img src="https://raw.githubusercontent.com/AhmedAymanelm/AhmedAymanelm/main/1022176446692826297.gif" alt="Workspace" width="100%"/>
 
 
