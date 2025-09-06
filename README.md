@@ -7,25 +7,25 @@
 
 ---
 
-## 👋 Hi, I’m **Ahmed Ayman**
+##  Hi, I’m **Ahmed Ayman**
 
-🎯 **AI Engineer | LLMs & RAG Specialist | AI Agents | Computer Vision | Deep Learning**  
-📍 From **Egypt – Kafr El-Sheikh**  
-💡 Passionate about **Generative AI, Large Language Models, AI Agents, and Vision-based AI systems**  
-
----
-
-### 🚀 What I Do
-- 🤖 Build & fine-tune **Large Language Models (LLMs)**.  
-- 🔍 Implement **RAG pipelines** (Retrieval-Augmented Generation).  
-- 🧑‍💻 Develop **AI Agents** (autonomous & conversational) using **LLMs + LangChain + Tools**.  
-- 📹 Work on **Computer Vision projects** (YOLOv8/11, Multi-Camera Tracking, Object Detection).  
-- 🧠 Apply **Deep Learning techniques** (CNNs, Transformers) for real-world tasks.  
-- ⚡ Explore & research the latest in **AI frameworks and Generative Models**.  
+AI Engineer | LLMs & RAG Specialist | AI Agents | Computer Vision | Deep Learning**  
+From **Egypt – Kafr El-Sheikh**  
+Passionate about **Generative AI, Large Language Models, AI Agents, and Vision-based AI systems**  
 
 ---
 
-### 🛠️ Tech Stack
+###  What I Do
+ Build & fine-tune **Large Language Models (LLMs)**.  
+ Implement **RAG pipelines** (Retrieval-Augmented Generation).  
+ Develop **AI Agents** (autonomous & conversational) using **LLMs + LangChain + Tools**.  
+ Work on **Computer Vision projects** (YOLOv8/11, Multi-Camera Tracking, Object Detection).  
+Apply **Deep Learning techniques** (CNNs, Transformers) for real-world tasks.  
+ Explore & research the latest in **AI frameworks and Generative Models**.  
+
+---
+
+### Tech Stack
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=flat&logo=python&logoColor=darkgreen)
 ![Pytorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat&logo=PyTorch&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat&logo=TensorFlow&logoColor=white)
@@ -42,7 +42,7 @@
 
 ---
 
-### 📈 My Stats
+###  My Stats
 <div align="center">
   
 <img src="https://raw.githubusercontent.com/SP-XD/profile-summary-cards/master/profile-summary-card-output/nord_dark/3-stats.svg" width="32.5%">
@@ -53,7 +53,7 @@
 
 ---
 
-### 📬 Reach Me
+### Reach Me
 - 💼 [LinkedIn](https://www.linkedin.com)  
 - 📫 **ahmedayman.ai@gmail.com**  
 - 📱 Telegram: [@Ahmed_AI](https://t.me/)  
