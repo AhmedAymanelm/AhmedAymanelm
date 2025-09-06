@@ -83,4 +83,3 @@ Explore & research the latest in **AI frameworks and Generative Models**.
 </div>
 
 
-⚡ *Fun fact: I talk to AI Agents more than I talk to people!* 😅
