@@ -47,19 +47,17 @@ Apply **Deep Learning techniques** (CNNs, Transformers) for real-world tasks.
 <p align="center">
   
   <!-- GitHub Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=AhmedAymanelm
-&show_icons=true&theme=radical" alt="Ahmed's GitHub Stats" width="49%">
+  <img src="https://github-readme-stats.vercel.app/api?username=AhmedAymanelm&show_icons=true&theme=radical" alt="Ahmed's GitHub Stats" width="49%">
   
   <!-- Top Languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AhmedAymanelm
-&layout=compact&theme=radical" alt="Top Languages" width="49%">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AhmedAymanelm&layout=compact&theme=radical" alt="Top Languages" width="49%">
   
 </p>
 
 <p align="center">
   
   <!-- Streak Stats -->
-  <img src="https://streak-stats.demolab.com?user=AhmedAyman&theme=radical&hide_border=true" alt="GitHub Streak Stats" width="70%">
+  <img src="https://streak-stats.demolab.com?user=AhmedAymanelm&theme=radical&hide_border=true" alt="GitHub Streak Stats" width="70%">
   
 </p>
 
