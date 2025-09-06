@@ -66,8 +66,8 @@ Apply **Deep Learning techniques** (CNNs, Transformers) for real-world tasks.
 
 ### Reach Me
 - 💼 [LinkedIn](https://www.linkedin.com)  
-- 📫 **ahmedayman.ai@gmail.com**  
-- 📱 Telegram: [@Ahmed_AI](https://t.me/)  
+- 📫 **sirahmedayman@gmail.com**  
+- 📱 Telegram: [@Ahmed_AI](https://t.me/01150365179)  
 
 ---
 
