@@ -25,8 +25,8 @@ Passionate about leveraging cutting-edge AI technologies to solve real-world pro
 <a href="mailto:sirahmedayman@gmail.com">
   <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
-<a href="https://github.com/AhmedAymanelm">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+<a href="https://wa.me/201150365179">
+  <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
 </a>
 <a href="https://www.linkedin.com/in/%E2%80%AAahmed-ayman%E2%80%AC%E2%80%8F-3a9900312/">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
@@ -34,26 +34,26 @@ Passionate about leveraging cutting-edge AI technologies to solve real-world pro
 <a href="https://www.kaggle.com/ahmdayman">
   <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" />
 </a>
-<a href="https://t.me/Ahmed_AI">
+<a href="https://t.me/Sir_ahmed_ayman">
   <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
 </a>
 
 </div>
- 
+
 
 ---
 
-### 🚀 What I Do
-- 🤖 Build & fine-tune **Large Language Models (LLMs)**.  
-- 🔍 Implement **RAG pipelines** (Retrieval-Augmented Generation).  
-- 🧑‍💻 Develop **AI Agents** (autonomous & conversational) using **LLMs + LangChain + Tools**.  
-- 📹 Work on **Computer Vision projects** (YOLOv8/11, Multi-Camera Tracking, Object Detection).  
-- 🧠 Apply **Deep Learning techniques** (CNNs, Transformers) for real-world tasks.  
-- ⚡ Explore & research the latest in **AI frameworks and Generative Models**.  
+### What I Do
+Build & fine-tune **Large Language Models (LLMs)**.  
+Implement **RAG pipelines** (Retrieval-Augmented Generation).  
+Develop **AI Agents** (autonomous & conversational) using **LLMs + LangChain + Tools**.  
+Work on **Computer Vision projects** (YOLOv8/11, Multi-Camera Tracking, Object Detection).  
+Apply **Deep Learning techniques** (CNNs, Transformers) for real-world tasks.  
+Explore & research the latest in **AI frameworks and Generative Models**.  
 
 ---
 
-### 🛠️ Tech Stack
+###  Tech Stack
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=flat&logo=python&logoColor=darkgreen)
 ![Pytorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat&logo=PyTorch&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat&logo=TensorFlow&logoColor=white)
@@ -85,14 +85,5 @@ Passionate about leveraging cutting-edge AI technologies to solve real-world pro
 
 </div>
 
-
----
-
-### 📬 Reach Me
-- 💼 [LinkedIn](https://www.linkedin.com)  
-- 📫 **ahmedayman.ai@gmail.com**  
-- 📱 Telegram: [@Ahmed_AI](https://t.me/)  
-
----
 
 ⚡ *Fun fact: I talk to AI Agents more than I talk to people!* 😅
