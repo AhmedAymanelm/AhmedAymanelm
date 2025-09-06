@@ -7,11 +7,39 @@
 
 ---
 
-## 👋 Hi, I’m **Ahmed Ayman**
 
-🎯 **AI Engineer | LLMs & RAG Specialist | AI Agents | Computer Vision | Deep Learning**  
-📍 From **Egypt – Kafr El-Sheikh**  
-💡 Passionate about **Generative AI, Large Language Models, AI Agents, and Vision-based AI systems**  
+
+<div align="center">
+
+# 👋 Hi, I’m Ahmed Ayman
+
+**AI Engineer from Egypt, specialized in data science and machine learning model development.**  
+Experienced in **Computer Vision, Natural Language Processing (NLP), and building intelligent systems powered by Large Language Models (LLMs) and Retrieval-Augmented Generation (RAG).**  
+Skilled in designing, training, and deploying AI solutions that enhance decision-making and improve user experience.  
+Passionate about leveraging cutting-edge AI technologies to solve real-world problems and deliver business value.  
+
+---
+
+### 🌐 Connect with Me
+
+<a href="mailto:sirahmedayman@gmail.com">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+<a href="https://github.com/AhmedAymanelm">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+<a href="https://www.linkedin.com/in/%E2%80%AAahmed-ayman%E2%80%AC%E2%80%8F-3a9900312/">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="https://www.kaggle.com/ahmdayman">
+  <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" />
+</a>
+<a href="https://t.me/Ahmed_AI">
+  <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
+</a>
+
+</div>
+ 
 
 ---
 
