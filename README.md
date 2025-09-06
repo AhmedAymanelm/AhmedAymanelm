@@ -12,7 +12,7 @@
 <div align="center">
 
 # 👋 Hi, I’m Ahmed Ayman
-<h3>Ai Engineering and  Data science</h3>
+<h3>Ai Engineering</h3>
 
 **AI Engineer from Egypt, specialized in data science and machine learning model development.**  
 Experienced in **Computer Vision, Natural Language Processing (NLP), and building intelligent systems powered by Large Language Models (LLMs) and Retrieval-Augmented Generation (RAG).**  
