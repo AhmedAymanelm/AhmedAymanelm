@@ -42,14 +42,25 @@ Apply **Deep Learning techniques** (CNNs, Transformers) for real-world tasks.
 
 ---
 
-###  My Stats
-<div align="center">
-  
-<img src="https://raw.githubusercontent.com/SP-XD/profile-summary-cards/master/profile-summary-card-output/nord_dark/3-stats.svg" width="32.5%">
-<img src="https://raw.githubusercontent.com/SP-XD/profile-summary-cards/master/profile-summary-card-output/nord_dark/1-repos-per-language.svg" width="32.5%">
-<img src="https://raw.githubusercontent.com/SP-XD/profile-summary-cards/master/profile-summary-card-output/nord_dark/2-most-commit-language.svg" width="32.5%">
+## 📊 My GitHub Stats
 
-</div>
+<p align="center">
+  
+  <!-- GitHub Stats -->
+  <img src="https://github-readme-stats.vercel.app/api?username=AhmedAyman&show_icons=true&theme=radical" alt="Ahmed's GitHub Stats" width="49%">
+  
+  <!-- Top Languages -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AhmedAyman&layout=compact&theme=radical" alt="Top Languages" width="49%">
+  
+</p>
+
+<p align="center">
+  
+  <!-- Streak Stats -->
+  <img src="https://streak-stats.demolab.com?user=AhmedAyman&theme=radical&hide_border=true" alt="GitHub Streak Stats" width="70%">
+  
+</p>
+
 
 ---
 
