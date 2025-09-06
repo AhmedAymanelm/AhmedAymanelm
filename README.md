@@ -18,10 +18,6 @@ Experienced in **Computer Vision, Natural Language Processing (NLP), and buildin
 Skilled in designing, training, and deploying AI solutions that enhance decision-making and improve user experience.  
 Passionate about leveraging cutting-edge AI technologies to solve real-world problems and deliver business value.  
 
----
-
-### 🌐 Connect with Me
-
 <a href="mailto:sirahmedayman@gmail.com">
   <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
